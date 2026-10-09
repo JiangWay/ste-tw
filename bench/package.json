@@ -1,0 +1,14 @@
+{
+  "name": "ste-tw-bench",
+  "private": true,
+  "type": "module",
+  "description": "Token measurement for STE-TW scenarios",
+  "scripts": {
+    "bench": "node scen.mjs"
+  },
+  "dependencies": {
+    "gpt-tokenizer": "^4.0.0",
+    "llama3-tokenizer-js": "^1.2.0"
+  },
+  "license": "MIT"
+}

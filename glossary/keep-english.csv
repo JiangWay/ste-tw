@@ -1,0 +1,30 @@
+term,domain,meaning_zh,avoid
+access token、refresh token、ID token,身分與存取,登入或存取用的憑據,權杖、令牌
+session,身分與存取,登入狀態,工作階段、會話
+authentication,身分與存取,確認使用者是誰,驗證、認證、身分驗證
+authorization,身分與存取,確認使用者可以做什麼,授權（也有 license 的意思）
+scope,身分與存取,OAuth 的權限範圍,範圍、作用域
+claim（JWT）,身分與存取,token 中的欄位,聲明、宣告。業務的 claim 寫「理賠」
+realm、client、client scope、mapper,Keycloak,Keycloak 的設定物件,領域、用戶端
+tenant,Entra ID,Entra ID 的組織單位,租戶、租用戶
+App Registration、Service Principal、Managed Identity,Entra ID,應用程式的身分物件,應用註冊、服務主體
+Conditional Access policy,Entra ID,依條件控制登入的原則,條件式存取原則、CA 政策
+PKCE、Token Exchange、On-Behalf-Of flow、SSO、MFA,身分與存取,標準或流程名稱,單一登入、多因素驗證
+API、endpoint、API Gateway,API 與網路,介面、位址、閘道,端點、接口、網關
+request、response、header、payload,API 與網路,HTTP 訊息的組成,請求、回應、標頭
+timeout、retry、rate limit,API 與網路,逾時、重試、流量限制,超時、限流
+route、service、plugin、consumer,Kong,Kong 的設定物件,路由、插件
+TLS、mTLS,API 與網路,傳輸加密協定,傳輸層安全
+Pod、`Deployment`、`Service`、`ConfigMap`、`Secret`,Kubernetes,K8s 資源類型,容器組
+namespace、node、cluster、image、container,Kubernetes,平台物件,命名空間、節點、叢集、鏡像
+liveness probe、readiness probe,Kubernetes,健康檢查設定,存活探測、就緒探測
+pipeline、build、release、rollback,CI/CD,自動化流程、建置產物、發行版、回到前一版,流水線、回滾、回退
+commit、branch、pull request（PR）、code review,Git,版控物件,提交、分支
+exception、log,開發,例外、記錄,異常、日誌
+component、props、composable,Vue,Vue 的結構,組件
+schema、migration、transaction、query,資料,資料庫物件與操作,交易（和業務交易混淆）
+prompt、system prompt、context window,AI,LLM 的輸入,提示詞、上下文視窗
+token（LLM）,AI,LLM 計量單位,詞元、字符
+agent、tool call、RAG、embedding,AI,AI 應用結構,智能體、嵌入
+topic、action、knowledge source,Copilot Studio,agent 的設定物件,主題、動作
+model deployment,Azure OpenAI,一個已部署的模型,部署（和動詞混淆）

@@ -1,0 +1,9 @@
+term,english,avoid,note
+理賠,claim,索賠,JWT 的 claim 保留英文
+保單,insurance policy,policy,「policy」只用於技術原則，例如 Conditional Access policy
+要保人,policyholder,投保人,—
+被保險人,insured,受保人,—
+保費,premium,—,—
+保險金額,sum insured,保額,「保額」是口語縮寫
+核保,underwriting,—,—
+理賠人員,claims adjuster,理算員、理賠專員,—

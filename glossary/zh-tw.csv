@@ -1,0 +1,42 @@
+term,english,avoid,reason
+伺服器,server,服務器,大陸用語
+資料庫,database,數據庫、DB,不用縮寫
+資料,data,數據,大陸用語
+資訊,information,信息,大陸用語
+訊息,message,消息,「消息」在台灣是 news
+程式、程式碼,program、code,代碼,大陸用語
+程序,procedure,流程、步驟（指整份程序時）,「程序」在大陸是 program，台灣是 procedure
+檔案,file,文件,「文件」在台灣是 document
+文件,document,文檔,大陸用語
+設定檔,configuration file,配置文件,大陸用語
+介面,interface,接口、界面,大陸用語
+使用者,user,用戶,大陸用語
+預設,default,默認、缺省,大陸用語
+快取,cache,緩存,大陸用語
+記憶體,memory,內存,大陸用語
+執行緒,thread,線程,大陸用語
+憑證,certificate,證書,大陸用語
+金鑰,key,密鑰、秘鑰,大陸用語
+網路,network,網絡,大陸用語
+連線,connection,連接,「連接」是動詞
+連結,link,鏈接,大陸用語
+支援,support,支持,「支持」在台灣是贊成
+專案,project,項目,「項目」在台灣是 item
+項目,item,條目,—
+品質,quality,質量,「質量」在台灣是 mass
+最佳化,optimize,優化,大陸用語
+登入 / 登出,sign in / sign out,登錄、登陸、註銷,大陸用語
+帳號,account,帳戶、賬號,「帳戶」是銀行帳戶
+權限,permission,許可權,—
+欄位,field,字段,大陸用語
+資料表,table,數據表,大陸用語
+物件,object,對象,「對象」在台灣是人
+陣列,array,數組,大陸用語
+字串,string,字符串,大陸用語
+函式,function,函數,「函數」是數學用語
+變數,variable,變量,大陸用語
+正式環境、測試環境、開發環境,production、test、development,生產環境、線上環境,大陸用語
+排程,scheduled job,定時任務,—
+批次,batch,批處理,—
+告警,alert,警報、報警,「警告」保留給程序中的 WARNING
+事件,event,—,incident 保留英文
